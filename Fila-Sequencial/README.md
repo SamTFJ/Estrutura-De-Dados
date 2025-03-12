@@ -1,9 +1,8 @@
 ## Implementação da Fila Sequencial em C++
-***
 ## Compilação
 ### Para compilar o programa, use:
-'make'
+`make`
 ### Para executar, use:
-'make run'
+`make run`
 ### Para deletar e limpar os arquivos criados, use:
-'make clean'
+`make clean`
